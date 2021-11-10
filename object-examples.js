@@ -9,3 +9,9 @@ var animal {
   carnivore: true,
   name: "Ida"
 };
+
+var customer {
+  name: "John Doe",
+  age: 34,
+  rich: true
+};
